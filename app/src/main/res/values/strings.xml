@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Share Market</string>
+    <string name="line">Your Request to Join has been received by Admin.
+        Please wait for 24-48 hours to get Your Account Approved.</string>
+    <string name="share_name">Share Name</string>
+    <string name="company_name">Company Name</string>
+    <string name="_52w_high">52W High:</string>
+    <string name="value">Value</string>
+    <string name="_52w_low">52w Low:</string>
+    <string name="open_today">Open Today:</string>
+    <string name="close_today">Close Today:</string>
+    <string name="_200_00">₹ 200.00</string>
+    <string name="volume">Volume</string>
+    <string name="search">Search</string>
+</resources>

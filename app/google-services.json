@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574634905425",
+    "project_id": "share-market-f5160",
+    "storage_bucket": "share-market-f5160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574634905425:android:100fb376dead09680b0d70",
+        "android_client_info": {
+          "package_name": "com.mycompany.sharemarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574634905425-br0bu7anrfpq94tmmiulshukhd4i3jun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACeqYBx3ZJx9sZ0STIJ__WE1qwdFfSF8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574634905425-br0bu7anrfpq94tmmiulshukhd4i3jun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

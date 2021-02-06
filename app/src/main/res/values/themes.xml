@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.ShareMarket" parent="Theme.AppCompat.Light" >
+
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/black</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+</resources>
